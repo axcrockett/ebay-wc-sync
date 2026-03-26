@@ -1,0 +1,12 @@
+{
+  "name": "ebay-wc-sync",
+  "description": "Diagnostic skill for debugging eBay-WooCommerce order sync failures across CedCommerce, Codisto, QuickSync, WebKul, and custom integrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "axcrockett",
+    "url": "https://github.com/axcrockett"
+  },
+  "repository": "https://github.com/axcrockett/ebay-wc-sync",
+  "license": "Apache-2.0",
+  "keywords": ["ebay", "woocommerce", "sync", "orders", "cedcommerce", "codisto", "debugging", "wordpress"]
+}
